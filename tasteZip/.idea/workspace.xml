@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14a35519-ce1a-4c7a-81d5-e922333fc631" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/tasteZip_Gradle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/ChartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/CodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/CodeGroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/FindWayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/MypageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/ReservationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/controller/StoreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/ChartControllerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/ChatControllerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/CodeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/CodeGroupDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/CommentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/FindWayDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/LoginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/MenuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/MypageDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/ReservationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao/StoreDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Chart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/FindWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Mypage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/ChartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/ChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/CodeGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/CodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/FindWayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/MypageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/ReservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service/StoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/ChartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/FindWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Mypage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/ChartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/FindWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Mypage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo/Store.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tasteZip" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JcdPwKI6v0aAgCw82qFOONGbbm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/Users/haneullee/Documents/factory/ws_workspace_Server/tasteZip_Gradle/tasteZip/src/main/java/com/tasteZip/infra/modules/vo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "aa0d04228f078df4aba030d3d2409fda",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/vo" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/serviceImpl" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dto" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tasteZip/infra/modules/dao" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a35519-ce1a-4c7a-81d5-e922333fc631" name="Changes" comment="" />
+      <created>1672381287666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672381287666</updated>
+      <workItem from="1672381289407" duration="5517000" />
+      <workItem from="1672386975510" duration="3043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
