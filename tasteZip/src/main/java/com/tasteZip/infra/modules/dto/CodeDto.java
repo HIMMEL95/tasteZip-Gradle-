@@ -1,24 +1,11 @@
 package com.tasteZip.infra.modules.dto;
 
-public class CodeDto(
-        String ifccSeq,
-        String ifccAnother,
-        String ifccName,
-        String ifccNameEng,
-        String ifccUseNy,
-        String ifccOrder,
-        String ifccExplanation,
-        String ifccDelNy,
-        String ifccReferenceV1,
-        String ifccReferenceV2,
-        String ifccReferenceV3,
-        String ifccReferenceI1,
-        String ifccReferenceI2,
-        String ifccReferenceI3,
-        String ifccCrteatedAt,
-        String ifccModifiedAt,
-        String ifcgSeq
-) {
+import lombok.Getter;
+import lombok.Setter;
+
+@Setter
+@Getter
+public class CodeDto {
 
     public static List<CodeDto> cachedCodeArrayList = new ArrayList<CodeDto>();
 
